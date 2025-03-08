@@ -158,8 +158,8 @@ export default function FilmmakerPortfolio() {
       >
         <div className="container mx-auto flex justify-between items-center">
           <h1 className="text-2xl font-bold tracking-tighter">
-            <span className="text-sky-400">FILM</span>
-            <span className="text-yellow-400">MAKER</span>
+            <span className="text-sky-400">V</span>
+            <span className="text-yellow-400">TR</span>
           </h1>
           <nav className="hidden md:flex space-x-8">
             {["home", "about", "work", "contact"].map((section) => (
